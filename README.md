@@ -4,6 +4,25 @@ Mendoza-Silva, G.M.; Torres-Sospedra, J.; Huerta, J. A Meta-Review of Indoor Pos
 tags: indoor positioning systems, indoor localization, SLAM, OpenCV, OpenSLAM
 https://www.mdpi.com/1424-8220/19/20/4507/htm#B16-sensors-19-04507
 
+Design and Evaluation of an Indoor Positioning System Framework
+https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-16.pdf
+
+* Search for open-source projects
+site:instructables.com
+https://www.instructables.com/JARVAS-Indoor-Positioning-System/
+https://www.instructables.com/Cat-Tracking-using-Bluetooth-Indoor-Positioning/
+https://www.instructables.com/10-CM-Accurate-Ultra-wide-Band-UWB-Positioning-for/
+https://www.instructables.com/UWB-Localization-Feather/
+https://www.instructables.com/Localino-Open-Source-Indoor-Location-System-Arduin/
+https://www.instructables.com/5-Cheap-Methods-for-Indoor-Robot-Localization-BLE-/
+https://www.instructables.com/Localino-Tracks-Roomba-IRobot-Maps-the-Environment/
+https://www.instructables.com/DR1-Discovery-Rover/
+
+site:hackaday.io
+site:medium.com
+site:github.com
+
+
 Visible Light Communication (VLC)
 	
 Computer Vision
@@ -15,7 +34,8 @@ https://github.com/ThePenultimatum/mdyehouseWinterProject
 
 https://keithwelliott.com/2018/04/14/icrs-robot-localization/
 
-Packmule https://core.ac.uk/download/pdf/232681265.pdf
+Packmule
+https://core.ac.uk/download/pdf/232681265.pdf
 
 https://github.com/iadi7ya/Indoor-Positioning-System
 
@@ -70,6 +90,11 @@ Ultrasound
 		The Cricket Location-Support System
 	Dolphin
 
-Other
+* Other
 Pozyx
 MarvelMind
+KIO RTLS
+Subpos Ranger
+
+* Good explanation of trilateration
+https://www.ece.lsu.edu/scalzo/FDR_Final.pdf
