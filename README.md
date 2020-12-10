@@ -8,7 +8,7 @@ Design and Evaluation of an Indoor Positioning System Framework
 https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-16.pdf
 
 * Search for open-source projects
-site:instructables.com
+site:instructables.com "indoor positioning"|"indoor localization"
 https://www.instructables.com/JARVAS-Indoor-Positioning-System/
 https://www.instructables.com/Cat-Tracking-using-Bluetooth-Indoor-Positioning/
 https://www.instructables.com/10-CM-Accurate-Ultra-wide-Band-UWB-Positioning-for/
@@ -18,9 +18,17 @@ https://www.instructables.com/5-Cheap-Methods-for-Indoor-Robot-Localization-BLE-
 https://www.instructables.com/Localino-Tracks-Roomba-IRobot-Maps-the-Environment/
 https://www.instructables.com/DR1-Discovery-Rover/
 
-site:hackaday.io
-site:medium.com
-site:github.com
+site:hackaday.io "indoor positioning"|"indoor localization"
+https://hackaday.io/project/18296-localino-open-source-indoor-localization-system
+https://hackaday.io/project/15496-precision-indoor-positioning
+https://hackaday.io/project/170660-ble-indoor-localization
+https://hackaday.io/project/3102-moxi-let-your-house-adapt-to-you
+
+https://hackaday.io/search?term=positioning
+https://hackaday.io/search?term=localization
+
+site:medium.com "indoor positioning"|"indoor localization"
+site:github.com "indoor positioning"|"indoor localization"
 
 
 Visible Light Communication (VLC)
