@@ -4,8 +4,22 @@ Mendoza-Silva, G.M.; Torres-Sospedra, J.; Huerta, J. A Meta-Review of Indoor Pos
 tags: indoor positioning systems, indoor localization, SLAM, OpenCV, OpenSLAM
 https://www.mdpi.com/1424-8220/19/20/4507/htm#B16-sensors-19-04507
 
+https://sacj.cs.uct.ac.za/index.php/sacj/article/view/452/249
+
+* Notes
+The existing technologies, observed from literature, used in positioning and navigation studies include Infrared (IR), Ultrasound/Ultrasonic, Audible Sound,  Magnetic,  Optical and Vision,  Radio Frequency (RF), Visible Light,  Pedestrian Dead Reckoning (PDR)/Inertial Navigation System (INS) and Hybrid. The RF technologies include Bluetooth, Ultra-wideband (UWB), Wireless Sensor Network (WSN), Wireless Local Area Network (WLAN), Radio-Frequency Identification (RFID) and Near Field Communication (NFC). 
+
 Design and Evaluation of an Indoor Positioning System Framework
 https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-16.pdf
+
+* Finding Location with Time of Arrival and Time Difference of Arrival Techniques
+// circles and hyperbolas
+https://sites.tufts.edu/eeseniordesignhandbook/files/2017/05/FireBrick_OKeefe_F1.pdf
+
+* TDOA Transmitter Localization with RTL-SDRs 
+https://www.panoradio-sdr.de/tdoa-transmitter-localization-with-rtl-sdrs/
+Stefan Scholl, DC9ST: Introduction and Experiments on Transmitter Localization with TDOA 
+https://www.youtube.com/watch?v=Km4TU17b05s
 
 * Search for open-source projects
 site:instructables.com "indoor positioning"|"indoor localization"
